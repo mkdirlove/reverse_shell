@@ -17,6 +17,8 @@ from io import StringIO, BytesIO
 from cryptography.fernet import Fernet
 
 
+
+
 HOST = "192.168.1.37"
 PORT = 6666
 BUFF = 1024
