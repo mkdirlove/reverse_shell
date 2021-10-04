@@ -193,10 +193,6 @@ def run():
         sendall(bytResponse)
 
 
-
-
-
-
 connect()
 send_client_info()
 run()
